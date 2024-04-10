@@ -5,8 +5,14 @@
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k5dmJlbzVwZmNoNjJvenRubGs4b2EwaTd5OWxqem1haTMzbzNlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"><br>
-  <a href="https://www.linkedin.com/in/uryel-jó-de-lucca-araujo-de-oliveira-116560269/">
+  <a href="https://www.linkedin.com/in/uryel-jó-de-lucca-araujo-de-oliveira-116560269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/uryel_0910/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.twitch.tv/uryel0910" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
 </div>
 
