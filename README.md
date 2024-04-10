@@ -18,8 +18,7 @@ Sou um desenvolvedor Back End entusiasta de tecnologia e empenhado em aprender c
 - 💼 Atualmente trabalho no CEPEIN(Centro de Pesquisa em Informática) - FEMA como desenvolvedor Back End.
 - 🔭 No meu tempo livre busca melhorar meus conceitos gerais sobre Orientação a Objetos e Clean Code.
 - 🎮 Como Hobby tento desenvolver jogos utilizando de C# como linguagem principal e Unity como engine.
--  
-
+- 📩 Como entrar e contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-UryelJo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uryel-jó-de-lucca-araujo-de-oliveira-116560269/) ou pelo email uryeljodelucca18@gmail.com.
 ---
 ### Linguagens e Ferramentas 🛠
 
@@ -46,5 +45,6 @@ Sou um desenvolvedor Back End entusiasta de tecnologia e empenhado em aprender c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="50" height="50" /><img width="10">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="50" height="50"/><img width="10">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" /><img width="10">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="50" height="50" /><img width="10">
 </div>
 
