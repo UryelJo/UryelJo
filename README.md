@@ -17,5 +17,9 @@ Sou um desenvolvedor Back End entusiasta de tecnologia e empenhado em aprender c
 - 💼 Atualmente trabalho no CEPEIN(Centro de Pesquisa em Informática) - FEMA como desenvolvedor Back End.
 - 🔭 No meu tempo livre busca melhorar meus conceitos gerais sobre Orientação a Objetos e Clean Code.
 - 🎮 Como Hobbie tento desenvolver jogos utilizando de C# como linguagem principal e Unity como engine Principal.
-- 
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UryelJo&layout=compact&langs_count=6&theme=tokyonight">
+</div>
+
 
